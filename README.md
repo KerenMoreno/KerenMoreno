@@ -7,8 +7,8 @@ I've been learning new programming languages, such as
 
 <div>
   <a href="https://https://github.com/KerenMoreno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KerenMoreno&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerenMoreno&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KerenMoreno&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+
  </div>
   <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" 
